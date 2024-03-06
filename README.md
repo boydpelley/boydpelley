@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+My name is Boyd, I'm a musician and hockey player new(er!) to programming from Sydney, Nova Scotia.
+My programming interests include C, especially rendering and file manipulation, Java, JavaScript (React.js and Node.js), and web development.
+
+I love collaborating with others so feel free to fork a repository you may be interested in working on!
+
+I'm currently working on rendering a menger sponge fractal in Java with Swing - feel free to help me debug ;)
 
 <!--
 **boydpelley/boydpelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
