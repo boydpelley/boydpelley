@@ -4,7 +4,7 @@ My programming interests include C, especially rendering and file manipulation, 
 
 I love collaborating with others so feel free to fork a repository you may be interested in working on!
 
-I'm currently working on a retro style original game in Java (repo to be released soon!)
+I'm currently working on a retro style original game in Java - called Brewtender, currently just working on the basic mechanics at the moment but feel free to take a look!
 
 <!--
 **boydpelley/boydpelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
