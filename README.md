@@ -29,9 +29,9 @@ I'm currently working on a retro style original game in Java - called Brewtender
 <br>
 <div align=center>
   <!-- Streak stats is from https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img height=250 align="center" src="https://streak-stats.demolab.com?user=boydpelley&theme=synthwave"/>
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=boydpelley&theme=synthwave"/>
   <!-- Readme stats is from https://github.com/anuraghazra/github-readme-stats -->
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boydpelley&theme=synthwave"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boydpelley&theme=synthwave"/>
 </div>
 
 <!--
