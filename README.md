@@ -1,3 +1,4 @@
+<!-- Visitor badge from https://github.com/jwenjian/visitor-badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=boydpelley.boydpelley" />
 
 <p align="center">
@@ -24,10 +25,12 @@
 
 I'm currently working on a retro style original game in Java - called Brewtender, currently just working on the basic mechanics at the moment but feel free to take a look!
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
+  <!-- Streak stats is from https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img height=250 align="center" src="https://streak-stats.demolab.com?user=boydpelley&theme=synthwave"/>
+  <!-- Readme stats is from https://github.com/anuraghazra/github-readme-stats -->
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boydpelley&theme=synthwave"/>
 </div>
 
