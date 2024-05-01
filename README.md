@@ -24,6 +24,13 @@
 
 I'm currently working on a retro style original game in Java - called Brewtender, currently just working on the basic mechanics at the moment but feel free to take a look!
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img height=250 align="center" src="https://streak-stats.demolab.com?user=boydpelley&theme=synthwave"/>
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boydpelley&theme=synthwave"/>
+</div>
+
 <!--
 **boydpelley/boydpelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
