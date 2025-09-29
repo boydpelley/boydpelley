@@ -15,15 +15,12 @@
 
 
 <div>
-  <h2 align="center">Languages and Frameworks</h2>
+  <h2 align="center">Languages and More</h2>
   <ul>
-    <li>C</li> I love working with file manipulation, SDL rendering for 2D rendering, and more!<br/>
-    <li>Java</li> I use Java to develop games and some simple rendering software. I've worked with audio libraries, file manipulation libraries, Swing, and more!<br/>
-    <li>JavaScript</li> I use JavaScript for development with React.js, Node.js; I'm still learning!<br/>
+    <li>I enjoy programming with C, Java, JavaScript, TypeScript and PHP.</li>
+    <li>Some applications include using C for OpenGl 2D and 3D rendering, React sites with TS/JS, and PHP sites for personal/work projects.</li>
   </ul>
 </div>
-
-I'm currently working on a retro style original game in Java - called Brewtender, currently just working on the basic mechanics at the moment but feel free to take a look!
 
 <h2 align="center">Stats</h2>
 <br>
