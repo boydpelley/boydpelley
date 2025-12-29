@@ -9,7 +9,6 @@
   <h2>About Me</h2>
   My name is Boyd, I'm a musician and hockey player programming from North Sydney, Nova Scotia.<br/>
   My biggest interests include music, beer and homebrewing, hiking, hockey, and of course programming!<br/><br/>
-  I love collaboration and learning new things, so feel free to send me an email or collaborate on one of my projects!<br/>
 </div>
 
 
@@ -18,7 +17,9 @@
   <h2 align="center">Languages and More</h2>
   <ul>
     <li>I enjoy programming with C, Java, TypeScript, PHP, and Python.</li>
-    <li>I use C for rendering and low-level programming, Python for TensorFlow and Machine Learning projects, TypeScript for React apps, and Java for game development and rendering</li>
+    <li>Exploring many areas with C for projects in low-level memory exploration, rendering, and more.</li>
+    <li>Python is used for research at Dalhousie University exploring TensorFlow in Image Recognition, and through work projects for simpler workflow automations. </li>
+    <li>I enjoy programming in PHP for work projects, creating responsive web and mobile apps for work, as well as API creation.</li>
   </ul>
 </div>
 
